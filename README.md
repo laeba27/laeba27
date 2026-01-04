@@ -2,7 +2,7 @@
 🔭 I’m currently working as a Full-Stack / MERN Developer <br>
 👯 I’m looking to collaborate on scalable frontend & full-stack projects <br>
 🌱 I’m currently learning System Design & Backend Architecture <br>
-💬 Ask me about React, Next.js, Node.js, APIs, Auth & Databases
+💬 Ask me about React, Next.js, Node.js, APIs, Auth, Cloud Computing, JWT & Databases
 
 
 ## 🌐 Socials:
